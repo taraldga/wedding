@@ -1,3 +1,17 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'no-nb'
+title = 'Claudbakks Bryllop'
+theme = 'alpha-church'
+
+[params]
+title = "Christine og Taralds bryllup"
+subtutle = "DET SCHMELLER PÅ KOSTER"
+instant_page = true
+[params.map]
+service = "osm"
+latitude = "58.89378"
+longitude = "11.04860"
+zoom = "11"
+
+[params.banner]
+image = "/img/sunset.jpeg"

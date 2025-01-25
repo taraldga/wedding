@@ -1,0 +1,119 @@
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+
+{{ partial "header" . }}
+{{ partial "nav" . }}
+{{ partial "banner" . }}
+
+			{{ "<!-- Main -->" | safeHTML }}
+				<section id="main" class="container">
+					{{ if .Params.Services.title }}
+					<section class="box special">
+						<header class="major">
+							<h2>{{ .Params.Services.title }}</h2><a name="services"></a>
+							<p>{{ .Params.Services.text | markdownify }}</p>
+						</header>
+						{{ partial "map" . }}
+					</section>
+					{{ end }}
+					<div style="text-align: center; background-color: white; border-radius: 10px;">
+						<h1>Bryllup laster...</h1>
+						<h3 id="demo" style="padding-bottom: 30px;">...</h3>
+					</div>
+					<script>
+						// Set the date we're counting down to
+						var countDownDate = new Date("2025-08-23T13:30:00").getTime();
+						
+						// Update the count down every 1 second
+						var x = setInterval(function() {
+						
+							// Get today's date and time
+							var now = new Date().getTime();
+						
+							// Find the distance between now and the count down date
+							var distance = countDownDate - now;
+						
+							// Time calculations for days, hours, minutes and seconds
+							var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+							var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+							var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+							var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+						
+							// Display the result in the element with id="demo"
+							document.getElementById("demo").innerHTML = days + " dager, " + hours + " timer "
+							+ minutes + " minutter " + seconds + " sekunder gjenstår.";
+						
+							// If the count down is finished, write some text
+							if (distance < 0) {
+								clearInterval(x);
+								document.getElementById("demo").innerHTML = "EXPIRED";
+							}
+						}, 1000);
+						</script>
+
+					{{ if .Params.Feature_icons.enable }}
+						{{ $tiles := .Params.Feature_icons.tile }}
+						{{ $len := (len $tiles) }}
+						<a name="feature-icons"></a>
+						<section class="box special features">
+							<div class="features-row">
+								{{ range $index, $key := $tiles}}
+									<section>
+										{{ if $key.url }}<a href="{{ $key.url | absURL }}"><div>{{ end }}
+											<span class="icon major {{ $key.icon_pack }} {{ $key.icon }} accent{{- $key.accent -}}"></span>
+											<h3>{{ $key.title }}</h3>
+											<p>{{ $key.text | markdownify }}</p>
+										{{ if $key.url }}</div></a>{{ end }}
+									</section>
+									{{ if and (mod $index 2) (lt (add $index 1) $len) }}
+											</div>
+											<div class="features-row">
+									{{ end }}
+								{{ end }}
+							</div>
+						</section>
+					{{ end }}
+
+					{{ if .Params.Feature_images.enable }}
+						{{ $tiles := .Params.Feature_images.tile }}
+						{{ $len := (len $tiles) }}
+						<a name="feature-images"></a>
+						<div class="row">
+							{{ range $index, $key := $tiles }}
+								<div class="col-6 col-12-narrower">
+									<section class="box special">
+										<span class="image featured"><img src="{{ $key.image | absURL}}" alt="" /></span>
+										<h3>{{ $key.title }}</h3>
+										<p>{{ $key.text | markdownify }}</p>
+										{{ if $key.button_text }}
+											<ul class="actions special">
+												<li><a href="{{ $key.url | absURL }}" class="button alt">{{ $key.button_text }}</a></li>
+											</ul>
+											{{ end }}
+										</section>
+									</div>
+									{{ if and (mod $index 2) (lt (add $index 1) $len) }}
+										</div>
+										<div class="row">
+									{{ end }}
+							{{ end }} {{/* end range $tiles*/}}
+					</div>
+					{{ end }} {{/* end if Feature_images*/}}
+
+				</section>
+
+			{{ if .Params.CTA.enable }}
+			{{ "<!-- CTA -->" | safeHTML }}
+				<section id="cta"><a name="call-to-action"></a>
+
+					{{ if .Params.CTA.heading }}<h2>{{ .Params.CTA.heading }}</h2>{{ end }}
+					{{ if .Params.CTA.message }}<p>{{ .Params.CTA.message }}</p>{{ end }}
+					{{ partial "contact" .}}
+
+				</section>
+			{{ end }} {{/* end if CTA*/}}
+{{ partialCached "footer" . }}
+{{ partial "scripts" . }}
