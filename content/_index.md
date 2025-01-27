@@ -1,7 +1,7 @@
 +++
 #Details for the box below the banner
 [services]
-  title = "Den ekte øde øy"
+  title = "Et skjærgårdsbryllup"
   text = "Her skal det SCHMELLE"
   map_location = "Ekenäs havshotel"
 
