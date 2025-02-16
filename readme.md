@@ -11,7 +11,13 @@ Informasjonsside for bryllupet til Tarald og Christine (Claudi-Gåsbakk? Claudi?
 
 Push til master, kjøres på Cloudflare
 
+## Url
+
+[Hosted side](https://wedding-1lm.pages.dev/)
+
 
 ## ToDo
 
-- [ ] Finne kart med oversikt over 
+- [ ] Fikse bilder for lenker
+- [ ] Implementere branding når vi får det 
+- [ ] 
