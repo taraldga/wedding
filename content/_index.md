@@ -14,16 +14,31 @@
   [[feature_images.tile]]
     image = "img/freely-10057.jpg"
     title = "Program"
-    text = "Fullstappet med innhold!"
+    text = "Bryllupets program"
     url = "/program"
     button_text = "Se program"
 
   [[feature_images.tile]]
     image = "img/freely-26905.jpg"
+    title = "Praktisk informasjon"
+    text = "Praktisk informasjon"
+    url = "/praktisk"
+    button_text="Se reiseguide"
+
+  [[feature_images.tile]]
+    image = "img/freely-26905.jpg"
     title = "Aktiviteter"
-    text = "Det er så mye å gjøre på koster!!!"
-    url = "#"
+    text = "Det er ingen grunn til å ha nedetid mellom slagene, Koster er fullspekket med aktiviteter!"
+    url = "/aktiviteter"
     button_text="Se aktivitetsmuligher"
+
+  [[feature_images.tile]]
+    image = "img/freely-26905.jpg"
+    title = "Om Koster"
+    text = "Kosterhavets Nationalpark er fulstappet med historie, natur og opplevelser. Les mer her"
+    url = "/om_koster"
+    button_text="Om Koster"
+
 
 [CTA]
   enable = false

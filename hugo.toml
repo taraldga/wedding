@@ -15,3 +15,24 @@ zoom = "11"
 
 [params.banner]
 image = "/img/sunset.jpeg"
+
+[menu]
+    [[menu.main]]
+        name = "Praktisk Informasjon"
+        url = "/praktisk"
+        weight = 1
+    [[menu.main]]
+        name = "Program"
+        url = "/program"
+        weight = 1
+    [[menu.main]]
+        name = "Om Koster"
+        url = "/om_koster"
+        weight = 1
+    [[menu.main]]
+        name = "Aktiviteter"
+        url = "/aktiviteter"
+        weight = 1
+
+[markup.goldmark.renderer]
+unsafe = true # Allows embedded html, I want maps

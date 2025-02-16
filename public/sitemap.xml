@@ -6,6 +6,10 @@
   </url><url>
     <loc>http://localhost:1313/aktiviteter/</loc>
   </url><url>
+    <loc>http://localhost:1313/om_koster/</loc>
+  </url><url>
+    <loc>http://localhost:1313/praktisk/</loc>
+  </url><url>
     <loc>http://localhost:1313/program/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
