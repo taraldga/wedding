@@ -12,28 +12,28 @@
   enable = true
 
   [[feature_images.tile]]
-    image = "img/freely-10057.jpg"
+    image = "img/clock.jpg"
     title = "Program"
     text = "Bryllupets program"
     url = "/program"
     button_text = "Se program"
 
   [[feature_images.tile]]
-    image = "img/freely-26905.jpg"
+    image = "img/kosterferge.jpg"
     title = "Praktisk informasjon"
     text = "Praktisk informasjon"
     url = "/praktisk"
     button_text="Se reiseguide"
 
   [[feature_images.tile]]
-    image = "img/freely-26905.jpg"
+    image = "img/anders_bonden.jpg"
     title = "Aktiviteter"
     text = "Det er ingen grunn til å ha nedetid mellom slagene, Koster er fullspekket med aktiviteter!"
     url = "/aktiviteter"
     button_text="Se aktivitetsmuligher"
 
   [[feature_images.tile]]
-    image = "img/freely-26905.jpg"
+    image = "img/koster_pent.jpg"
     title = "Om Koster"
     text = "Kosterhavets Nationalpark er fulstappet med historie, natur og opplevelser. Les mer her"
     url = "/om_koster"
