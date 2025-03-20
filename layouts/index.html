@@ -20,8 +20,8 @@
 					</section>
 					{{ end }}
 					<div style="text-align: center; background-color: white; border-radius: 10px;">
-						<h1>Bryllup laster...</h1>
-						<h3 id="demo" style="padding-bottom: 30px;">...</h3>
+						<h1>Bryllup intreffer om</h1>
+						<h3 id="clock" style="padding-bottom: 30px;">...</h3>
 					</div>
 					<script>
 						// Set the date we're counting down to
@@ -42,14 +42,14 @@
 							var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
 							var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 						
-							// Display the result in the element with id="demo"
-							document.getElementById("demo").innerHTML = days + " dager, " + hours + " timer "
+							// Display the result in the element with id="clock"
+							document.getElementById("clock").innerHTML = days + " dager, " + hours + " timer "
 							+ minutes + " minutter " + seconds + " sekunder gjenstår.";
 						
 							// If the count down is finished, write some text
 							if (distance < 0) {
 								clearInterval(x);
-								document.getElementById("demo").innerHTML = "EXPIRED";
+								document.getElementById("clock").innerHTML = "GIFT!!!!";
 							}
 						}, 1000);
 						</script>
