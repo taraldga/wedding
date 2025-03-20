@@ -6,7 +6,7 @@ Hvis du er nysgjerrig på Kosterhavets nationalpark og naturresevatet, kan du ta
 ## Koster Kyrka
 
 Svergies vestligste kirke ligger på Syd-Koster og markeres med en krone i spiret. Kirken ble innviet i 1939, og er i dag et hyppig brukt konsertlokale, men også en veldig populær kirke for bryllup. 
-Bilde av kirken :D
+![Koster Kyrka](/img/koster_kyrka.jpg)
 
 ## Alberthuset 
 
@@ -14,7 +14,7 @@ Alberthuset er den offisielle ferieboligen til familien Claudi-Nielsen. Huset bl
 På tomten står det i tillegg et anneks ved navn Hebbe lille, og et skur ved navn Friggeboden. Spør du Herr og Fru Claudi-Nielsen om bakgrunnen for navnevalgene får du garantert et entusiastisk og lattermildt svar. 
 På fredag kveld åpner Alberthuset hagen sin for alle bryllupsgjester til mingling og grilling. 
 
-![Alberthuset](/img/alberthuset.jpeg)
+<img src="/img/alberthuset.jpeg" width="300px" />
 
 ## Interaktive kart {#maps}
 

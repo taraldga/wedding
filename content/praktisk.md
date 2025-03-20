@@ -25,13 +25,13 @@ Det finnes flere kommunale parkeringsplasser i Strömstad.
 Nærmeste til Norra Hamnen fergekai er parkeringsplassene Västra Hamngatan og Canning som ligger rett ved siden av sykehuset. Gangavstand til kaia er ca 700m. 
 Disse parkeringsplassene koster 10 kr/timen mandag-fredag 09-18 samt lørdag 09-15. Du finner betalingsinformasjon i EasyPark-appen og sonen er 1732.
 
-![image](/img/parkering_1.png)
+![image](/img/parkering1.png)
 
 Dersom det skulle være fullt på disse plassene, eller du ønsker så stå parkert gratis, kan du stå på parkeringsplassen Strömsvattnet. Gangavstanden til kaia herfra er ca 1,8 km, noe som tilsvarer 20 minutters frisk gange eller 9 minutter i brudgommens løpetempo.
 Her finnes også en stor ladestasjon for el-biler. 
 EasyPark-sonen er 1733.
 
-![image](/img/parkering_2.png)
+![image](/img/parkering2.png)
 
 Lurer du på noe mer angående parkering kan du ta en titt på Strömstad kommune sine nettsider: [stromstad.se](https://www.stromstad.se/trafikochinfrastruktur/trafikochgator/parkeraistromstad.4.77eae44162d2b78e826eff1.html).
 

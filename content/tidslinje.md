@@ -35,6 +35,7 @@
   font-family: 'Roboto', sans-serif;
   font-size: 0.8rem;
   margin: 0;
+  line-height: 1.5;
 }
 .timeline-container {
   max-width: 1024px;
