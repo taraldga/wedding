@@ -1,24 +1,49 @@
 # Praktisk informasjon
 
-## Hotell Ekenäs
+## Ekenäs Havshotell
 
-_todo_
+Hjemmeside: https://www.ekenashavshotell.se/
 
-## Hvordan kommer jeg meg til Koster og Ekenäs
+Vi gifter oss på herlige Ekenäs Havshotell på Koster. 
+Ekenäs Havshotell, tidligere Pensionat Ekenäs, har siden 1905 tatt imot gjester på Syd-Koster. Hotellet ligger vakkert til like ved sjøen og fergekaia, og har en utrolig utsikt mot Kosterfjorden.
 
-### Bilturen
+På hjemmesiden kan du lese mer om rommene. Hotellet tilbyr enkeltrom, dobbeltrom og leiligheter.
+
+![Ekenäs Havshotell](/img/hotell.jpg)
+
+## Ønsker du å gi en gave?
+
+Etter 9 år som samboere har vi det vi trenger at servise og glass. Vi setter enormt stor pris på at du vil feire dagen og helgen med oss på Koster. Om du ønsker å gi en bryllupsgave i tillegg til ditt nærvær, ønsker vi oss bidrag til bryllupsreise. 
+
+## Hvordan kommer seg til Koster
+
+Koster er en øygruppe som ligger like utenfor Strömstad. Det enkleste er å kjøre bil til Strömstad, men det går også an å ta tog til Halden og buss videre til Strömstad. 
 
 ### Parkering
 
-Strömstad kommune har egne anbefalinger på hvor det er lurt å parkere når man skal til Koster: [stromstad.se](https://www.stromstad.se/trafikochinfrastruktur/trafikochgator/parkeraistromstad/tipsfordigsomskatillkoster.4.4ca260c0179effeb59210636.html)
+Det finnes flere kommunale parkeringsplasser i Strömstad. 
+Nærmeste til Norra Hamnen fergekai er parkeringsplassene Västra Hamngatan og Canning som ligger rett ved siden av sykehuset. Gangavstand til kaia er ca 700m. 
+Disse parkeringsplassene koster 10 kr/timen mandag-fredag 09-18 samt lørdag 09-15. Du finner betalingsinformasjon i EasyPark-appen og sonen er 1732.
 
-### Fergeturen
+![image](/img/parkering_1.png)
 
-Kostermarins ferger er veldig presise og rommer mange mennesker. De som driver Kostermarin er også veldig erfarne og består av lokale og øyboere, så det skal veldig ekstraordinære hendelser til for at en båt ikke har plass til deg eller ikke går i tide.
+Dersom det skulle være fullt på disse plassene, eller du ønsker så stå parkert gratis, kan du stå på parkeringsplassen Strömsvattnet. Gangavstanden til kaia herfra er ca 1,8 km, noe som tilsvarer 20 minutters frisk gange eller 9 minutter i brudgommens løpetempo.
+Her finnes også en stor ladestasjon for el-biler. 
+EasyPark-sonen er 17.
+
+![image](/img/parkering_2.png)
+
+Lurer du på noe mer angående parkering kan du ta en titt på Strömstad kommune sine nettsider: [stromstad.se](https://www.stromstad.se/trafikochinfrastruktur/trafikochgator/parkeraistromstad.4.77eae44162d2b78e826eff1.html).
+
+### Ferge ut til Koster
+
+Koster Marins ferger er veldig presise og rommer mange mennesker. De som driver Koster Marin er også veldig erfarne og består av lokale og øyboere, så det skal veldig ekstraordinære hendelser til for at en båt ikke har plass til deg eller ikke går i tide.
 
 Fergene har god plass til å ta med seg det man måtte trenge av ekstra bagasje.
 
-For å rekke opplegget anbefaler vi å senest ta fergen som går 16:10 fra Strömstad. Etter dette må du ta fergen til Västra Bryggan og gå opp til Alberthuset for å få delta på aktivitetene på fredags kveld. 
+For å rekke båttransporten fra Ekenäs fredag kveld anbefaler vi å senest ta fergen som går 14:25 fra Strömstad. Etter dette må du ta fergen til Västra Bryggan og gå opp til Alberthuset for å få delta på aktivitetene på fredags kveld.
+
+Billetter kjøper du enkelt i appen Västrafik ToGo eller ombord på ferga. 
 
 ![tidtabell](/img/tidtabell-koster.png "Title")
 

@@ -1,9 +1,20 @@
 # Om koster
 
-Kosterhavets nasjonalpark er en nasjonalpark utenfor Bohusläns kyst i Sverige. Den dekker 38 878 hektar rundt Koster-øyenes skjærgård langs Strömstad og Tanum kommuner i Västra Götalands län. Parken grenser til Ytre Hvaler nasjonalpark på den norske siden. Skjærgården skilles fra fastlandet av Kosterfjorden, en 247 m dyp renne som står i forbindelse med Norskerenna.
+Kosterhavets nasjonalpark er en nasjonalpark utenfor Bohusläns kyst i Sverige. Denne dekker 38.878 hektar rundt Kosterøyenes skjærgård og grenser til Ytre Hvaler nasjonalpark i Norge. Kosterfjorden, en 247 meter dyp renne som forbinder området med Norskerenna, skiller skjærgården fra fastlandet. Øyene ble også erklært naturreservat i 1984 for å beskytte det sårbare økosystemet. Kosterhavets nationalpark er Sveriges første maritime nasjonalpark og rommer ca 390 kvadratkilometer. 
+Hvis du er nysgjerrig på Kosterhavets nationalpark og naturresevatet, kan du ta turen innom naturum på Ekenäs: https://www.sverigesnationalparker.se/park/kosterhavets-nationalpark/upplevelser/naturum/ 
 
-[Mer informasjon om nasjonalparken](https://www.vastsverige.com/globalassets/kosterhavet/kosterhavet_np_swe_2012.pdf/)
+## Koster Kyrka
 
+Svergies vestligste kirke ligger på Syd-Koster og markeres med en krone i spiret. Kirken ble innviet i 1939, og er i dag et hyppig brukt konsertlokale, men også en veldig populær kirke for bryllup. 
+Bilde av kirken :D
+
+## Alberthuset 
+
+Alberthuset er den offisielle ferieboligen til familien Claudi-Nielsen. Huset ble bygget i 1884, og har gjennom årene blitt brukt som både fast bolig, skole, og nå feriehus. Herr og Fru Claudi-Nielsen kjøpte Alberthuset våren 2012 og har de siste 13 årene tilbrakt mer tid her enn hjemme i Oslo. 
+På tomten står det i tillegg et anneks ved navn Hebbe lille, og et skur ved navn Friggeboden. Spør du Herr og Fru Claudi-Nielsen om bakgrunnen for navnevalgene får du garantert et entusiastisk og lattermildt svar. 
+På fredag kveld åpner Alberthuset hagen sin for alle bryllupsgjester til mingling og grilling. 
+
+![Alberthuset](/img/alberthuset.jpeg)
 
 ## Interaktive kart {#maps}
 
