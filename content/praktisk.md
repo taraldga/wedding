@@ -29,7 +29,7 @@ Disse parkeringsplassene koster 10 kr/timen mandag-fredag 09-18 samt lørdag 09-
 
 Dersom det skulle være fullt på disse plassene, eller du ønsker så stå parkert gratis, kan du stå på parkeringsplassen Strömsvattnet. Gangavstanden til kaia herfra er ca 1,8 km, noe som tilsvarer 20 minutters frisk gange eller 9 minutter i brudgommens løpetempo.
 Her finnes også en stor ladestasjon for el-biler. 
-EasyPark-sonen er 17.
+EasyPark-sonen er 1733.
 
 ![image](/img/parkering_2.png)
 
