@@ -18,8 +18,4 @@ Mer informasjon om sykkelutleie finner du her: https://www.kostercykeln.com/
 
 ## Leie Kajakk
 
-## Padel
-
-## Minigolf
-
-## ...
+Sjøen rundt koster kan by på fantastiske kajakk-turer. For mer informasjon om hvordan man kan leie og hvor man kan padle, se her: https://www.vastsverige.com/kosterhavets-nationalpark/aktiviteter-i-kosterhavet/kajak-i-kosterhavet/
