@@ -10,9 +10,9 @@ Svergies vestligste kirke ligger på Syd-Koster og markeres med en krone i spire
 
 ## Alberthuset 
 
-Alberthuset er den offisielle ferieboligen til familien Claudi-Nielsen. Huset ble bygget i 1884, og har gjennom årene blitt brukt som både fast bolig, skole, og nå feriehus. Herr og Fru Claudi-Nielsen kjøpte Alberthuset våren 2012 og har de siste 13 årene tilbrakt mer tid her enn hjemme i Oslo. 
-På tomten står det i tillegg et anneks ved navn Hebbe lille, og et skur ved navn Friggeboden. Spør du Herr og Fru Claudi-Nielsen om bakgrunnen for navnevalgene får du garantert et entusiastisk og lattermildt svar. 
-På fredag kveld åpner Alberthuset hagen sin for alle bryllupsgjester til mingling og grilling. 
+Alberthuset er ferieboligen til familien Claudi-Nielsen. Huset ligger på Nordkoster med adresse Lotsvägen 14 og ble bygget av fiskeren Albert Pettersson i 1884.
+
+Gjennom årene har huset vært benyttet som fast bolig, skole og fra 1959 som fritidsbolig. Herr og Fru Claudi-Nielsen kjøpte Alberthuset våren 2012 og har siden tilbragt mer tid der enn hjemme i Oslo. På eiendommen står det også et «bryggerhus» (anneks, lillstuga), bygget på 1930-tallet med navnet «Hebbe lille» og en «friggebod» (utebod). Spør du Herr og Fru Claudi-Nielsen om bakgrunnen for navnevalget, får du garantert et entusiastisk og lattermildt svar. På fredag kveld åpner Alberthuset hagen for alle bryllupsgjester til mingling og grilling
 
 <img src="/img/alberthuset.jpeg" width="300px" />
 
