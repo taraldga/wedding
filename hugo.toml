@@ -13,6 +13,9 @@ latitude = "58.89378"
 longitude = "11.04860"
 zoom = "11"
 
+[params.banner]
+    image = "/img/sunset.jpeg"
+
 
 [menu]
     [[menu.main]]
