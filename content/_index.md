@@ -5,7 +5,10 @@
   text = "Her skal det SCHMELLE"
   map_location = "Ekenäs havshotel"
 
-
+[[banner.button]]
+  url = "/tidslinje"
+  text = "Historien om oss"
+  type = "primary"
 
 [feature_images]
 #These feature images look best if there's an even number of them.

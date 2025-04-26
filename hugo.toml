@@ -13,8 +13,6 @@ latitude = "58.89378"
 longitude = "11.04860"
 zoom = "11"
 
-[params.banner]
-image = "/img/sunset.jpeg"
 
 [menu]
     [[menu.main]]
@@ -36,6 +34,10 @@ image = "/img/sunset.jpeg"
     [[menu.main]]
         name = "Aktiviteter"
         url = "/aktiviteter"
+        weight = 5
+    [[menu.main]]
+        name = "Historien om oss"
+        url = "/tidslinje"
         weight = 5
 
 [markup.goldmark.renderer]
