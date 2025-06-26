@@ -46,10 +46,6 @@ zoom = "11"
         name = "Ønskeliste"
         url = "/onskeliste"
         weight = 6
-    [[menu.main]]
-        name = "Bryllupsreise"
-        url = "/bryllupsreise"
-        weight = 7
 
 [markup.goldmark.renderer]
 unsafe = true # Allows embedded html, I want maps

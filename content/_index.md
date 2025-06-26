@@ -48,13 +48,7 @@
     text = "Her er brudeparets ønskeliste for bryllupsgaver"
     url = "/onskeliste"
     button_text="Ønskeliste"
-  
-  [[feature_images.tile]]
-    image = "img/sunset_lemorne.jpg"
-    title = "Bryllupsreisen"
-    text = "Her finner du et lite sammendrag over hva vi har tenkt til å gjøre på bryllupsreise"
-    url = "/bryllupsreise"
-    button_text="Bryllupsreisen"
+
 
 [CTA]
   enable = false
