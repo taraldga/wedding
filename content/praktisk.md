@@ -17,7 +17,7 @@ Etter 9 år som samboere har vi det vi trenger at servise og glass. Vi setter en
 
 ## Hvordan kommer seg til Koster
 
-Koster er en øygruppe som ligger like utenfor Strömstad. Det enkleste er å kjøre bil til Strömstad, men det går også an å ta tog til Halden og buss videre til Strömstad. 
+Koster er en øygruppe som ligger like utenfor Strömstad. Det enkleste er å kjøre bil til Strömstad eller ta buss direkte til Strömstad, men det går også an å ta tog til Halden og buss videre til Strömstad. 
 
 ### Parkering
 
@@ -34,6 +34,12 @@ EasyPark-sonen er 1733.
 ![image](/img/parkering2.png)
 
 Lurer du på noe mer angående parkering kan du ta en titt på Strömstad kommune sine nettsider: [stromstad.se](https://www.stromstad.se/trafikochinfrastruktur/trafikochgator/parkeraistromstad.4.77eae44162d2b78e826eff1.html).
+
+### Buss til strømstad
+
+Selskapet "FlixBus" som nylig har etablert ruter til Norge har satt opp en rute som går med ekspress-fart til Strømstad fra Oslo, og som også stopper Ås og Moss på veien. Den har kun tre stopp totalt før Strømstad og bruker drøye 1 time og 40 minutter. Bussen koster ca 100 kroner. 
+
+For mer informasjon, se [flixbus sine hjemmesider](https://global.flixbus.com/) og se [her for å bestille til Strømstad](https://shop.global.flixbus.com/search?departureCity=40e18128-8646-11e6-9066-549f350fcb0c&arrivalCity=9894aeee-b66e-4fad-a6ab-caad744b7d81&route=Oslo-Str%C3%B6mstad&rideDate=22.08.2025&adult=1&_locale=en&departureCountryCode=NO&arrivalCountryCode=SE&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.auto_update_disabled%5D=0&features%5Bfeature.webc_search_us_veterans_promoted%5D=0&features%5Bfeature.webc_search_no_stations_limit%5D=0&features%5Bfeature.webc_station_search%5D=0&features%5Bfeature.webc_search_grouping_trips%5D=0&features%5Bfeature.darken_page%5D=1)
 
 ### Ferge ut til Koster
 
