@@ -37,9 +37,13 @@ Lurer du på noe mer angående parkering kan du ta en titt på Strömstad kommun
 
 ### Buss til strømstad
 
-Selskapet "FlixBus" som nylig har etablert ruter til Norge har satt opp en rute som går med ekspress-fart til Strømstad fra Oslo, og som også stopper Ås og Moss på veien. Den har kun tre stopp totalt før Strømstad og bruker drøye 1 time og 40 minutter. Bussen koster ca 100 kroner. 
+Selskapet "FlixBus" som nylig har etablert ruter til Norge har satt opp en rute som går med ekspress-fart til Strømstad fra Oslo, og som også stopper Ås og Moss på veien. Den har kun tre stopp totalt før Strømstad og bruker drøye 1 time og 40 minutter. Bussen koster ca 100 kroner. OBS! Bussen stopper på Blomstholmsmotet, og du må derfor ta Västtrafik's rute 111 videre til Strømstad Sentrum, eller booke en Taxi om det korresponderer dårlig.
 
 For mer informasjon, se [flixbus sine hjemmesider](https://global.flixbus.com/) og se [her for å bestille til Strømstad](https://shop.global.flixbus.com/search?departureCity=40e18128-8646-11e6-9066-549f350fcb0c&arrivalCity=9894aeee-b66e-4fad-a6ab-caad744b7d81&route=Oslo-Str%C3%B6mstad&rideDate=22.08.2025&adult=1&_locale=en&departureCountryCode=NO&arrivalCountryCode=SE&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.auto_update_disabled%5D=0&features%5Bfeature.webc_search_us_veterans_promoted%5D=0&features%5Bfeature.webc_search_no_stations_limit%5D=0&features%5Bfeature.webc_station_search%5D=0&features%5Bfeature.webc_search_grouping_trips%5D=0&features%5Bfeature.darken_page%5D=1)
+
+[Rute 111](https://vtstorage002.blob.core.windows.net/vtstoragecontainer01/4111__0__LINE__20250818__20251213__6ec2221f-5412-4458-bdfc-bf359741e4c5__1,0__2523693.pdf)
+
+Strömstad Taxi: (+46) 0526-12200
 
 ### Ferge ut til Koster
 
