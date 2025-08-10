@@ -22,10 +22,9 @@ Koster er en øygruppe som ligger like utenfor Strömstad. Det enkleste er å kj
 ### Parkering
 
 Det finnes flere kommunale parkeringsplasser i Strömstad. 
-Nærmeste til Norra Hamnen fergekai er parkeringsplassene Västra Hamngatan og Canning som ligger rett ved siden av sykehuset. Gangavstand til kaia er ca 700m. 
-Disse parkeringsplassene koster 10 kr/timen mandag-fredag 09-18 samt lørdag 09-15. Du finner betalingsinformasjon i EasyPark-appen og sonen er 1732.
+Nærmeste til Norra Hamnen fergekai er parkeringsplassene for 7-døgns parkering som du ser på bildet under. For å se nøyaktig informasjon om lokasjon og pris se [Strömstads nettsider](https://www.stromstad.se/trafikochinfrastruktur/trafikochgator/parkeraistromstad.4.77eae44162d2b78e826eff1.html).
 
-![image](/img/parkering1.png)
+![image](/img/7-dagers-parkering.png)
 
 Dersom det skulle være fullt på disse plassene, eller du ønsker så stå parkert gratis, kan du stå på parkeringsplassen Strömsvattnet. Gangavstanden til kaia herfra er ca 1,8 km, noe som tilsvarer 20 minutters frisk gange eller 9 minutter i brudgommens løpetempo.
 Her finnes også en stor ladestasjon for el-biler. 
