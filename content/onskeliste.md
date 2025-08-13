@@ -8,6 +8,8 @@ Rene pengegaver setter vi veldig stor pris på, og kan overføres til kontonumme
 
 ## Ønskeliste på Vipps
 
-Vi har også komponert en gaveliste på Vipps. Her kan dere gi gaver til spesifikke aktiviteter eller bare generelt til bryllupsreisen. Besøk denne lenken: [https://qr.vipps.no/wish-list/2579c6ed-20b0-418c-8ac3-08dda6885e74](https://qr.vipps.no/wish-list/2579c6ed-20b0-418c-8ac3-08dda6885e74) eller scan koden under for å få se ønskelisten:
+Vi har også komponert en gaveliste på Vipps. Her kan dere gi booke gaver til spesifikke aktiviteter eller bare generelt til bryllupsreisen. **OBS!** Vipps sin gaveliste gir *IKKE* mulighet til å Vippse beløpet, men kun vise hvilke gaver som er "tatt". For at vi skal motta gaven din må det vippses på vanlig måte til 97100141. Legg gjerne ved en kommentar for hvilken type gave du ønsker å gi.
+
+Besøk denne lenken: [https://qr.vipps.no/wish-list/2579c6ed-20b0-418c-8ac3-08dda6885e74](https://qr.vipps.no/wish-list/2579c6ed-20b0-418c-8ac3-08dda6885e74) eller scan koden under for å få se ønskelisten:
 
 <img src="/img/wish_list_qr.svg" style="max-height: 300px;" />
